@@ -9,3 +9,5 @@ A web application used to tranfer virtual money between multiple users and also 
  Transfer table/ Transfer History which records all the transactions
 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customer
+
+WEBSITE LINK:https://suppi78.github.io/banktask.github.io/
